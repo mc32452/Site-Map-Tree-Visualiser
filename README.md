@@ -2,6 +2,8 @@
 
 A lightweight Streamlit app to map a website, filter out non-page assets, explore high-level sections, and visualize structure with an interactive treemap. It uses the Firecrawl API to discover URLs and provides an interface to refine, analyze, and export the results.
 
+![App screenshot](assets/screenshot.png)
+
 ## Features
 - Normalize any input like `www.example.com` or `https://example.com/path` to a valid base URL
 - Optionally include subdomains and/or discover via sitemap
